@@ -1,0 +1,14 @@
+service:
+  id: "glb-2466"
+  slug: "esb-speech-grade-8-study-web"
+  appName: "ESB Speech Grade 8 Prep"
+  supportEmail: "june1012june@gmail.com"
+  locales: ["en-GB"]
+app:
+  androidPackage: "app.mcyj.examprep.glb2466"
+  iosBundleIdentifier: "app.mcyj.examprep.glb2466"
+web:
+  origin: "https://mcyj.github.io"
+  basePath: "/esb-speech-grade-8-study-web/"
+operations:
+  deployment: "github-pages-static"

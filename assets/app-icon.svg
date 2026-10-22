@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">ESB Speech Grade 8 voice practice icon</title>
+  <desc id="description">A stage microphone and expressive voice waveform without official marks</desc>
+  <rect width="1024" height="1024" rx="232" fill="#261D3D"/>
+  <path fill="#5A4D78" d="M176 82h672c52 0 94 42 94 94v672c0 52-42 94-94 94H176c-52 0-94-42-94-94V176c0-52 42-94 94-94z"/>
+  <circle cx="512" cy="438" r="222" fill="#403657"/>
+  <path fill="#FFF8F1" d="M512 238c-70 0-126 56-126 126v146c0 70 56 126 126 126s126-56 126-126V364c0-70-56-126-126-126zm-58 112h116v32H454zm0 67h116v32H454zm0 67h116v32H454z"/>
+  <path fill="none" stroke="#F4C86C" stroke-width="28" stroke-linecap="round" d="M316 492c0 108 88 196 196 196s196-88 196-196M512 688v92M416 780h192"/>
+  <path fill="none" stroke="#DCCFEF" stroke-width="22" stroke-linecap="round" d="M164 438h64l32-76 54 152 48-105M660 409l48 105 54-152 32 76h66"/>
+</svg>

@@ -1,0 +1,373 @@
+{
+  "serviceId": "glb-2466",
+  "name": "ESB Speech Grade 8 Prep",
+  "locale": "en-GB",
+  "packageId": "app.mcyj.examprep.glb2466",
+  "appStoreUrl": "https://apps.apple.com/gb/app/esb-speech-grade-8-prep/id6801923388",
+  "playUrl": null,
+  "officialSources": [
+    {
+      "label": "ESB current Advanced Level resources",
+      "url": "https://esbuk.org/index.php/our-teacher-resources/oracy-resources/advanced-level/"
+    },
+    {
+      "label": "ESB Grade 8 specification v4, issued 3 October 2024",
+      "url": "https://esbuk.org/wp-content/uploads/2025/11/ESB-SPEC-20-ESB-Level-3-Certificate-in-Speech-Grade-8-v4.pdf"
+    },
+    {
+      "label": "ESB qualification prices, academic year 2026–27",
+      "url": "https://esbuk.org/index.php/funding/qualification-prices-centre-fees/"
+    }
+  ],
+  "sourceCheckedAt": "2026-10-23",
+  "guides": [
+    {
+      "slug": "grade-8-assessment-guide",
+      "title": "What does ESB Speech Grade 8 assess?",
+      "description": "Understand the four speaking and listening components before building a realistic rehearsal plan.",
+      "sections": [
+        [
+          "Four components, one preparation plan",
+          "The qualification combines an oral presentation, a discussion of a news item, a literary recommendation, and questions and discussion. Prepare the transitions between prepared speaking and responsive listening as carefully as the prepared material."
+        ],
+        [
+          "Start with the current specification",
+          "Use the specification linked by ESB's current Advanced Level page. Its version 4 supersedes the version 3 link still present in some older materials, so check the version before relying on a saved worksheet."
+        ],
+        [
+          "Rehearse with other people",
+          "Study tasks can help organise ideas, but the assessment involves interaction with a group and an assessor. Arrange live rehearsal so that you must answer an unexpected question, clarify an idea and respond to a competing interpretation."
+        ],
+        [
+          "Use practice results as feedback",
+          "The app can support knowledge practice and reflection. A mock score does not measure the whole live performance or predict an ESB grade. Keep separate notes for research quality, organisation, delivery and response to others."
+        ]
+      ]
+    },
+    {
+      "slug": "choose-presentation-enquiry",
+      "title": "How to choose a focused Grade 8 presentation enquiry",
+      "description": "Turn a broad interest into an arguable question that supports a clear, evidence-based presentation.",
+      "sections": [
+        [
+          "Replace a topic with a question",
+          "A label such as technology or sport leaves too much to cover. Ask a question with a manageable boundary: one place, period, policy or comparison. Write a provisional answer before collecting examples."
+        ],
+        [
+          "Check whether evidence can change your view",
+          "An enquiry is stronger when credible evidence could lead you to revise the answer. List the assumptions behind your view and look deliberately for a source that challenges at least one of them."
+        ],
+        [
+          "Keep a research trail",
+          "For each useful claim, record the original source, publication date, context and any limitation. Distinguish a count or measurement from someone's interpretation. This makes later questions easier to answer accurately."
+        ],
+        [
+          "Test the scope aloud",
+          "Explain the enquiry and your provisional conclusion to another person in a short conversation. If you need a long introduction merely to define the topic, reduce the scope before writing a full presentation."
+        ]
+      ]
+    },
+    {
+      "slug": "research-and-evidence",
+      "title": "How to turn research into an oral argument",
+      "description": "Build a traceable argument that connects evidence, interpretation and a personal conclusion.",
+      "sections": [
+        [
+          "Separate claims from examples",
+          "Write the main claim in one sentence, then list the evidence that genuinely supports it. An interesting anecdote may illustrate a point without proving it; label that distinction in your notes."
+        ],
+        [
+          "Evaluate sources before quoting",
+          "Ask who produced the information, how it was obtained and what incentive may affect its presentation. Prefer the original report or dataset when practical, and avoid treating repeated online summaries as independent confirmation."
+        ],
+        [
+          "Explain why the evidence matters",
+          "After a figure or quotation, state the inference you draw and its limit. The audience should not have to guess why that material belongs in the argument or whether it applies beyond the example shown."
+        ],
+        [
+          "Prepare a fair challenge",
+          "Choose the most credible objection to your conclusion. Practise acknowledging what it gets right before explaining why your overall judgement still follows, or which part of your original view needs qualification."
+        ]
+      ]
+    },
+    {
+      "slug": "five-minute-presentation",
+      "title": "How to rehearse a five-minute oral presentation",
+      "description": "Plan a concise spoken argument and use timing practice to improve clarity rather than rush the ending.",
+      "sections": [
+        [
+          "Plan the message before the script",
+          "Choose the conclusion you want the audience to understand, then select the minimum sequence of points needed to reach it. Treat any material that does not change that understanding as a candidate for removal."
+        ],
+        [
+          "Use transitions as signposts",
+          "At each change of point, explain the relationship to what came before: contrast, consequence, example or limitation. Signposts are most useful when they clarify the argument rather than announce a generic next section."
+        ],
+        [
+          "Time a natural delivery",
+          "Rehearse with the same pauses, visual changes and emphasis you intend to use. If the talk overruns, shorten the content instead of accelerating every sentence. Record where listeners lose the thread."
+        ],
+        [
+          "Make the conclusion answer the enquiry",
+          "End by returning to the original question and stating what the evidence supports. Avoid introducing a new major claim in the final sentence. Confirm the centre's current practical arrangements before assessment."
+        ]
+      ]
+    },
+    {
+      "slug": "visual-support-and-notes",
+      "title": "How to use visual support and speaking notes",
+      "description": "Make visuals and notes support the audience's understanding without competing with the spoken argument.",
+      "sections": [
+        [
+          "Give each visual one job",
+          "Decide whether a visual explains a comparison, sequence, location or piece of evidence. If its purpose is only to decorate the slide, consider removing it so the audience can focus on the argument."
+        ],
+        [
+          "Check the visual from the back of the room",
+          "Use labels and contrasts that remain readable at a distance. Explain the relevant feature aloud and include a source where the material comes from another organisation. A chart should not require silent reading of dense text."
+        ],
+        [
+          "Write prompts rather than a second script",
+          "A useful note reminds you of the next claim, example or transition. Rehearse recovering from a lost place so that you can continue in your own words instead of searching for one exact sentence."
+        ],
+        [
+          "Rehearse a simple fallback",
+          "Practise explaining the central point if a slide cannot be shown. Check file format, display and allowed materials with the centre. This is a practical preparation method, not a replacement for the centre's instructions."
+        ]
+      ]
+    },
+    {
+      "slug": "news-discussion-preparation",
+      "title": "How to prepare a news item for discussion",
+      "description": "Choose a substantive article and distinguish its reporting, evidence, framing and unresolved questions.",
+      "sections": [
+        [
+          "Select a discussion, not only a headline",
+          "Look for an issue with competing interpretations and enough evidence to support an informed conversation. Ensure the group can understand the context without already knowing every person or event mentioned."
+        ],
+        [
+          "Summarise before evaluating",
+          "First explain what the article reports and which issue it raises. Then distinguish the article's language and framing from your own view. A concise factual summary gives the group a shared starting point."
+        ],
+        [
+          "Look for missing context",
+          "Compare key claims with their original source where possible. Ask whose perspective appears, whose is absent and whether a statistic is being compared fairly. Avoid calling every disagreement bias."
+        ],
+        [
+          "Prepare open questions",
+          "Write questions that invite reasons and alternatives rather than a yes or no answer. Keep a backup prompt for silence and another for bringing a discussion back to the central issue."
+        ]
+      ]
+    },
+    {
+      "slug": "lead-balanced-discussion",
+      "title": "How to lead a balanced group discussion",
+      "description": "Practise inviting contributions, developing responses and closing with a faithful summary of the group's views.",
+      "sections": [
+        [
+          "Open with a shared question",
+          "State the issue and give the group enough context to respond. Offer your own position without presenting it as the only reasonable conclusion, and signal that alternative explanations are welcome."
+        ],
+        [
+          "Follow answers rather than your prompt list",
+          "Listen for a reason that needs testing or an assumption that needs clarification. A relevant follow-up usually develops the discussion better than moving immediately to the next prepared question."
+        ],
+        [
+          "Manage participation respectfully",
+          "Invite quieter members without putting them under pressure. If one person dominates, acknowledge the contribution and ask for another perspective. The aim is a useful exchange, not a contest to speak most often."
+        ],
+        [
+          "Summarise what was actually said",
+          "In the closing summary, identify common ground, meaningful disagreement and any change in your own thinking. Do not attribute a view to the group simply because it supports your original argument."
+        ]
+      ]
+    },
+    {
+      "slug": "literary-recommendation",
+      "title": "How to build a literary recommendation",
+      "description": "Move beyond plot summary to explain why a chosen text matters and how its writing supports your judgement.",
+      "sections": [
+        [
+          "Choose a text you can discuss critically",
+          "Select a work whose style and effect you can explain using specific evidence. Personal enthusiasm helps, but the recommendation needs reasons that another reader can understand and evaluate."
+        ],
+        [
+          "Give only the context the audience needs",
+          "Introduce the writer, form and relevant setting without spending the whole recommendation retelling events. Connect contextual information to an actual feature of the text rather than listing background facts."
+        ],
+        [
+          "Support evaluation with a short passage",
+          "Identify a choice of image, voice, structure or language and explain its effect. State why that effect strengthens or limits your recommendation. A balanced judgement can recognise weaknesses without losing a clear position."
+        ],
+        [
+          "Prepare the reading as a separate task",
+          "Mark the sense and changes of thought in the selected passage, then read it aloud for meaning. The current specification permits reading; do not rely on older advice that presents memorisation as a requirement."
+        ]
+      ]
+    },
+    {
+      "slug": "questions-and-listening",
+      "title": "How to prepare for questions without scripting every answer",
+      "description": "Use attentive listening, clarification and evidence to respond clearly when the next question is unexpected.",
+      "sections": [
+        [
+          "Listen to the whole question",
+          "Wait for the speaker to finish, then identify what is being asked: a fact, a reason, a comparison or a challenge. A short pause can prevent a prepared answer from missing the actual question."
+        ],
+        [
+          "Clarify uncertain wording",
+          "If a question is ambiguous, check the intended meaning before responding. Clarification is more useful than confidently answering a different question, especially when two terms could be interpreted in different ways."
+        ],
+        [
+          "Answer, support and qualify",
+          "Start with the direct answer, add the most relevant reason or example, and identify any uncertainty. It is acceptable to distinguish what your research establishes from what would need further investigation."
+        ],
+        [
+          "Practise asking useful questions too",
+          "After listening to another learner, ask about a claim, implication or alternative interpretation that was genuinely raised. Avoid using a question mainly as an opportunity to give another speech."
+        ]
+      ]
+    },
+    {
+      "slug": "assessment-week-checklist",
+      "title": "What to check in the final week before Grade 8",
+      "description": "Combine a complete rehearsal, centre checks and a manageable revision list before assessment day.",
+      "sections": [
+        [
+          "Confirm the current arrangements",
+          "Check the assessment date, location or online joining instructions, required materials and any approved adjustment with the centre. Use the specification currently linked by ESB rather than an old downloaded copy."
+        ],
+        [
+          "Run a complete rehearsal",
+          "Include presentation, discussion, literary work and questions with real listeners. Ask the listeners to note one point they understood clearly and one point that needed clarification, then make a focused revision."
+        ],
+        [
+          "Reduce the revision list",
+          "Choose a small set of changes that materially improves the argument or communication. Rewriting everything at the last moment can leave less time to practise listening and responding naturally."
+        ],
+        [
+          "Keep fees and results separate from app access",
+          "The current ESB fee page lists £62 per Grade 8 learner for academic year 2026–27, with centre arrangements to confirm. An app purchase does not pay an ESB fee, book an assessment or guarantee a result."
+        ]
+      ]
+    }
+  ],
+  "iconFile": "app-icon.svg",
+  "screenFiles": [
+    {
+      "ext": "jpg",
+      "width": 221,
+      "height": 480
+    },
+    {
+      "ext": "jpg",
+      "width": 221,
+      "height": 480
+    },
+    {
+      "ext": "jpg",
+      "width": 221,
+      "height": 480
+    }
+  ],
+  "repository": "esb-speech-grade-8-study-web",
+  "studyHeading": "Practise, explain, then revisit.",
+  "guideHeading": "Build a preparation plan around the assessment.",
+  "guideIntro": "Ten practical guides grounded in current official assessment information. Connect independent practice with live rehearsal, source checking and focused review.",
+  "closing": "Bring structure to the next study session.",
+  "faqIntro": "Clear answers about the study app, official assessment and preparation.",
+  "policies": {
+    "privacy": [
+      [
+        "This website",
+        "This static website has no account, contact form, advertising cookies or analytics. GitHub Pages may process technical connection information to deliver and protect the service."
+      ],
+      [
+        "App and Store information",
+        "Check the current app product page and its linked privacy policy for app data handling and purchase terms. This website does not collect payment details or app study records."
+      ],
+      [
+        "Email support",
+        "Include the app name, version, device and steps to reproduce a problem. Do not send passwords, purchase tokens, personal documents or sensitive information."
+      ]
+    ],
+    "terms": [
+      [
+        "Independent study support",
+        "These guides support independent preparation. They do not reproduce official assessment items and do not guarantee a pass or award."
+      ],
+      [
+        "Current official information",
+        "Current authority instructions govern dates, fees, eligibility and assessment requirements. Use qualified instruction and supervised practice where needed."
+      ],
+      [
+        "App purchases",
+        "The current Store product page and purchase screen describe app access and prices. Use that Store's process to manage purchases and request refunds."
+      ]
+    ],
+    "support": [
+      [
+        "App support",
+        "Send the product name, app version, operating system and steps to reproduce the issue. Avoid personal information in any screen description."
+      ],
+      [
+        "Assessment questions",
+        "Contact the official assessment provider about eligibility, registration, documents and results. App support cannot make an official assessment decision."
+      ]
+    ],
+    "contact": [
+      [
+        "RushLabs",
+        "Use the email below for technical questions about the app and website. Contact the assessment provider directly for registration and qualification matters."
+      ]
+    ]
+  },
+  "theme": {
+    "ink": "#211b35",
+    "primary": "#7450a8",
+    "accent": "#ffbd7a"
+  },
+  "variant": "speech",
+  "features": [
+    "500 independent practice tasks",
+    "Explanations and timed practice",
+    "Offline preparation and mistake review"
+  ],
+  "hero": "Speak with structure. Respond with confidence.",
+  "subtitle": "Understand the four speaking and listening components before building a realistic rehearsal plan.",
+  "kicker": "ESB Speech Grade 8 Prep",
+  "panelCaption": "RELEASED APP · REAL SCREEN",
+  "screenCaptions": [
+    "500 independent practice tasks",
+    "Explanations and timed practice",
+    "Offline preparation and mistake review"
+  ],
+  "policyDescriptions": {
+    "privacy": "This static website has no account, contact form, advertising cookies or analytics. GitHub Pages may process technical connection information to deliver and protect the service.",
+    "terms": "These guides support independent preparation. They do not reproduce official assessment items and do not guarantee a pass or award.",
+    "support": "Send the product name, app version, operating system and steps to reproduce the issue. Avoid personal information in any screen description.",
+    "contact": "Use the email below for technical questions about the app and website. Contact the assessment provider directly for registration and qualification matters."
+  },
+  "faqs": [
+    [
+      "Is this an official assessment app?",
+      "RushLabs developed this independent study aid. It is not affiliated with or endorsed by ESB."
+    ],
+    [
+      "Does app practice award a qualification?",
+      "No. Practice results are private study feedback. The live ESB assessment and official award process are separate."
+    ],
+    [
+      "What should I prepare first?",
+      "Read the current specification, prepare the four assessment components and arrange live group rehearsal."
+    ],
+    [
+      "Where can I get the app?",
+      "Use the active official Store link and check the exact product name and current purchase terms."
+    ],
+    [
+      "Does the app replace a tutor or live rehearsal?",
+      "It supports independent practice. Responsive speaking, listening and delivery also need rehearsal with other people."
+    ]
+  ]
+}
